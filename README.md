@@ -24,7 +24,3 @@ Data Aggregation: Summarizing data by relevant categories for clearer visual com
 Insights Extraction: Interpreting visual data to derive insights, making complex data more understandable. Usage
 
 Download the World Bank population dataset from the provided link. Place the dataset file in the project directory. Run the data visualization script to generate a bar chart or histogram of population distribution. Results The bar chart or histogram created from this task provides a visual summary of the population distribution by country or demographic category. Through this visualization, key insights emerge, such as which countries have the largest populations and how populations are distributed across categories. This analysis can serve as a foundation for further demographic studies.
-
-Insights Extraction: Interpreting visual data to derive insights, making complex data more understandable. Usage
-
-Download the World Bank population dataset from the provided link. Place the dataset file in the project directory. Run the data visualization script to generate a bar chart or histogram of population distribution. Results The bar chart or histogram created from this task provides a visual summary of the population distribution by country or demographic category. Through this visualization, key insights emerge, such as which countries have the largest populations and how populations are distributed across categories. This analysis can serve as a foundation for further demographic studies.
